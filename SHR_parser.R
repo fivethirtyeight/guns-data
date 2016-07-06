@@ -104,8 +104,14 @@ SHR_parser <- function(year) {
   }
   
   # Next we identify offenders who used a gun. (Note that no weapon is coded for victims.)
+  # Firearm codes:
+  # 11 - firearm type not stated
+  # 12 - handgun
+  # 13 - rifle
+  # 14 - shotgun
+  # 15 - other gun
   working <- working %>%
-    mutate(gun = ifelse(weapon %in% c(11,12,13,14, 15), 1, 0)) # Identify if a gun was used
+    mutate(gun = ifelse(weapon %in% c(11, 12, 13, 14, 15), 1, 0)) # Identify if a gun was used
     
   # Next we identify gun incidents. These are *incidents* in which a gun was used.
   # Note that we're coding these at the incident level -- this variable doesn't tell us which
@@ -114,7 +120,7 @@ SHR_parser <- function(year) {
   # they were personally shot.)
   working <- working %>%
     filter(vic_off == "off") %>%
-    mutate(gun_used = ifelse(weapon %in% c(11,12,13,14, 15), 1, 0)) %>% # Identify if a gun was used
+    mutate(gun_used = ifelse(weapon %in% c(11, 12, 13, 14, 15), 1, 0)) %>% # Identify if a gun was used
     group_by(unique_id) %>% 
     select(unique_id, gun_used) %>%
     summarize(gun_used = sum(gun_used)) %>%
@@ -134,8 +140,8 @@ SHR_parser <- function(year) {
     group_by(unique_id) %>%
     summarize(police = sum(police), other_just = sum(other_just), just = sum(just)) %>%
     mutate(police = ifelse(police > 0, 1, 0),
-           other_just = ifelse(other_just >= 1, 1, 0),
-           just = ifelse(just >= 1, 1, 0)) %>%
+           other_just = ifelse(other_just > 0, 1, 0),
+           just = ifelse(just > 0, 1, 0)) %>%
     select(unique_id, just, police, other_just) %>%
     left_join(working, ., by = "unique_id")
   
