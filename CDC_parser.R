@@ -109,7 +109,7 @@ CDC_parser <- function(year, url) {
   # X94 (Assault by rifle, shotgun and larger firearm discharge)
   # X95 (Assault by other and unspecified firearm discharge)
   # 
-  # Undetermind intent:
+  # Undetermined intent:
   # Y22 (Handgun discharge, undetermined intent)
   # Y23 (Rifle, shotgun and larger firearm discharge, undetermined intent)
   # Y24 (Other and unspecified firearm discharge, undetermined intent)
@@ -147,7 +147,7 @@ CDC_parser <- function(year, url) {
   
 }
 
-# Enter year and url (urls are inconsitent, so easier to enter them directly)
+# Enter year and url (urls are inconsistent, so easier to enter them directly)
 year <- 2013
 url <- "ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/DVS/mortality/mort2013us.zip"
 
