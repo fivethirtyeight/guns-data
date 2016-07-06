@@ -1,4 +1,4 @@
-This directory contains code and data for FiveThirtyEight's [Gun Deaths in America](https://fivethirtyeight.com/gun-deaths) project.
+This directory contains code and data for FiveThirtyEight's [Gun Deaths in America](http://fivethirtyeight.com/gun-deaths/) project.
 
 There are five files in this repo:
 - `CDC_parser.R` contains code to download, clean and parse data from the CDC's Multiple Cause of Death datafile.
