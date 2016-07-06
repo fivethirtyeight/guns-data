@@ -1,0 +1,541 @@
+"","Intent","Gender","Age","Race","Deaths","Population","Rate"
+"1","None selected","None selected","None selected","None selected",33599,316299978,10.6
+"2","None selected","None selected","None selected","White",22079,197369634,11.2
+"3","None selected","None selected","None selected","Black",7765,38896382,20
+"4","None selected","None selected","None selected","Hispanic",3007,54049078,5.6
+"5","None selected","None selected","None selected","Asian/Pacific Islander",442,16315561,2.7
+"6","None selected","None selected","None selected","Other",306,9669323,3.2
+"7","None selected","None selected","Under 15","None selected",427,61085868,0.7
+"8","None selected","None selected","Under 15","White",242,31538832,0.8
+"9","None selected","None selected","Under 15","Black",109,8323603,1.3
+"10","None selected","None selected","Under 15","Hispanic",63,14994449,0.4
+"11","None selected","None selected","Under 15","Asian/Pacific Islander",7,2825155,0.2
+"12","None selected","None selected","Under 15","Other",5,3403829,0.1
+"13","None selected","None selected","15 - 34","None selected",12723,86611149,14.7
+"14","None selected","None selected","15 - 34","White",5244,48773131,10.8
+"15","None selected","None selected","15 - 34","Black",5297,11893789,44.5
+"16","None selected","None selected","15 - 34","Hispanic",1822,17960261,10.1
+"17","None selected","None selected","15 - 34","Asian/Pacific Islander",200,4950398,4
+"18","None selected","None selected","15 - 34","Other",160,3033571,5.3
+"19","None selected","None selected","35 - 64","None selected",14874,123935928,12
+"20","None selected","None selected","35 - 64","White",11396,81870182,13.9
+"21","None selected","None selected","35 - 64","Black",2164,14848291,14.6
+"22","None selected","None selected","35 - 64","Hispanic",988,17777422,5.6
+"23","None selected","None selected","35 - 64","Asian/Pacific Islander",203,6797707,3
+"24","None selected","None selected","35 - 64","Other",123,2642326,4.7
+"25","None selected","None selected","65+","None selected",5569,44667034,12.5
+"26","None selected","None selected","65+","White",5192,35187489,14.8
+"27","None selected","None selected","65+","Black",194,3830699,5.1
+"28","None selected","None selected","65+","Hispanic",133,3316947,4
+"29","None selected","None selected","65+","Asian/Pacific Islander",32,1742301,1.8
+"30","None selected","None selected","65+","Other",18,589598,3.1
+"31","None selected","None selected","5","None selected",6,0,Inf
+"32","None selected","None selected","5","White",4,0,Inf
+"33","None selected","None selected","5","Black",1,0,Inf
+"34","None selected","None selected","5","Hispanic",0,0,NA
+"35","None selected","None selected","5","Asian/Pacific Islander",0,0,NA
+"36","None selected","None selected","5","Other",0,0,NA
+"37","None selected","Female","None selected","None selected",4816,160668110,3
+"38","None selected","Female","None selected","White",3562,100162288,3.6
+"39","None selected","Female","None selected","Black",773,20362385,3.8
+"40","None selected","Female","None selected","Hispanic",358,26670924,1.3
+"41","None selected","Female","None selected","Asian/Pacific Islander",81,8589119,0.9
+"42","None selected","Female","None selected","Other",42,4883395,0.9
+"43","None selected","Female","Under 15","None selected",123,29836679,0.4
+"44","None selected","Female","Under 15","White",64,15355910,0.4
+"45","None selected","Female","Under 15","Black",32,4095428,0.8
+"46","None selected","Female","Under 15","Hispanic",25,7330024,0.3
+"47","None selected","Female","Under 15","Asian/Pacific Islander",2,1393440,0.1
+"48","None selected","Female","Under 15","Other",1,1661877,0.1
+"49","None selected","Female","15 - 34","None selected",1521,42593280,3.6
+"50","None selected","Female","15 - 34","White",835,23942099,3.5
+"51","None selected","Female","15 - 34","Black",441,6023846,7.3
+"52","None selected","Female","15 - 34","Hispanic",191,8580577,2.2
+"53","None selected","Female","15 - 34","Asian/Pacific Islander",30,2535358,1.2
+"54","None selected","Female","15 - 34","Other",23,1511400,1.5
+"55","None selected","Female","35 - 64","None selected",2565,63125058,4.1
+"56","None selected","Female","35 - 64","White",2105,41284839,5.1
+"57","None selected","Female","35 - 64","Black",270,7932606,3.4
+"58","None selected","Female","35 - 64","Hispanic",131,8863203,1.5
+"59","None selected","Female","35 - 64","Asian/Pacific Islander",44,3668172,1.2
+"60","None selected","Female","35 - 64","Other",16,1376239,1.2
+"61","None selected","Female","65+","None selected",606,25113094,2.4
+"62","None selected","Female","65+","White",558,19579439,2.8
+"63","None selected","Female","65+","Black",29,2310506,1.3
+"64","None selected","Female","65+","Hispanic",11,1897119,0.6
+"65","None selected","Female","65+","Asian/Pacific Islander",6,992150,0.6
+"66","None selected","Female","65+","Other",2,333879,0.6
+"67","None selected","Female","5","None selected",1,0,Inf
+"68","None selected","Female","5","White",1,0,Inf
+"69","None selected","Female","5","Black",0,0,NA
+"70","None selected","Female","5","Hispanic",0,0,NA
+"71","None selected","Female","5","Asian/Pacific Islander",0,0,NA
+"72","None selected","Female","5","Other",0,0,NA
+"73","None selected","Male","None selected","None selected",28783,155631868,18.5
+"74","None selected","Male","None selected","White",18517,97207346,19
+"75","None selected","Male","None selected","Black",6993,18533996,37.7
+"76","None selected","Male","None selected","Hispanic",2650,27378155,9.7
+"77","None selected","Male","None selected","Asian/Pacific Islander",361,7726442,4.7
+"78","None selected","Male","None selected","Other",263,4785929,5.5
+"79","None selected","Male","Under 15","None selected",303,31249189,1
+"80","None selected","Male","Under 15","White",179,16182922,1.1
+"81","None selected","Male","Under 15","Black",77,4228176,1.8
+"82","None selected","Male","Under 15","Hispanic",39,7664425,0.5
+"83","None selected","Male","Under 15","Asian/Pacific Islander",5,1431715,0.3
+"84","None selected","Male","Under 15","Other",4,1741952,0.2
+"85","None selected","Male","15 - 34","None selected",11202,44017869,25.4
+"86","None selected","Male","15 - 34","White",4409,24831032,17.8
+"87","None selected","Male","15 - 34","Black",4855,5869943,82.7
+"88","None selected","Male","15 - 34","Hispanic",1631,9379683,17.4
+"89","None selected","Male","15 - 34","Asian/Pacific Islander",170,2415040,7
+"90","None selected","Male","15 - 34","Other",136,1522171,8.9
+"91","None selected","Male","35 - 64","None selected",12309,60810870,20.2
+"92","None selected","Male","35 - 64","White",9291,40585343,22.9
+"93","None selected","Male","35 - 64","Black",1894,6915685,27.4
+"94","None selected","Male","35 - 64","Hispanic",858,8914219,9.6
+"95","None selected","Male","35 - 64","Asian/Pacific Islander",159,3129535,5.1
+"96","None selected","Male","35 - 64","Other",107,1266087,8.5
+"97","None selected","Male","65+","None selected",4964,19553940,25.4
+"98","None selected","Male","65+","White",4634,15608050,29.7
+"99","None selected","Male","65+","Black",165,1520192,10.9
+"100","None selected","Male","65+","Hispanic",122,1419828,8.6
+"101","None selected","Male","65+","Asian/Pacific Islander",26,750151,3.5
+"102","None selected","Male","65+","Other",16,255719,6.3
+"103","None selected","Male","5","None selected",5,0,Inf
+"104","None selected","Male","5","White",4,0,Inf
+"105","None selected","Male","5","Black",1,0,Inf
+"106","None selected","Male","5","Hispanic",0,0,NA
+"107","None selected","Male","5","Asian/Pacific Islander",0,0,NA
+"108","None selected","Male","5","Other",0,0,NA
+"109","Suicide","None selected","None selected","None selected",21058,316299978,6.7
+"110","Suicide","None selected","None selected","White",18457,197369634,9.4
+"111","Suicide","None selected","None selected","Black",1111,38896382,2.9
+"112","Suicide","None selected","None selected","Hispanic",1057,54049078,2
+"113","Suicide","None selected","None selected","Asian/Pacific Islander",248,16315561,1.5
+"114","Suicide","None selected","None selected","Other",185,9669323,1.9
+"115","Suicide","None selected","Under 15","None selected",139,61085868,0.2
+"116","Suicide","None selected","Under 15","White",117,31538832,0.4
+"117","Suicide","None selected","Under 15","Black",7,8323603,0.1
+"118","Suicide","None selected","Under 15","Hispanic",12,14994449,0.1
+"119","Suicide","None selected","Under 15","Asian/Pacific Islander",3,2825155,0.1
+"120","Suicide","None selected","Under 15","Other",0,3403829,0
+"121","Suicide","None selected","15 - 34","None selected",5061,86611149,5.8
+"122","Suicide","None selected","15 - 34","White",3878,48773131,8
+"123","Suicide","None selected","15 - 34","Black",510,11893789,4.3
+"124","Suicide","None selected","15 - 34","Hispanic",479,17960261,2.7
+"125","Suicide","None selected","15 - 34","Asian/Pacific Islander",106,4950398,2.1
+"126","Suicide","None selected","15 - 34","Other",88,3033571,2.9
+"127","Suicide","None selected","35 - 64","None selected",10764,123935928,8.7
+"128","Suicide","None selected","35 - 64","White",9634,81870182,11.8
+"129","Suicide","None selected","35 - 64","Black",476,14848291,3.2
+"130","Suicide","None selected","35 - 64","Hispanic",456,17777422,2.6
+"131","Suicide","None selected","35 - 64","Asian/Pacific Islander",115,6797707,1.7
+"132","Suicide","None selected","35 - 64","Other",82,2642326,3.1
+"133","Suicide","None selected","65+","None selected",5092,44667034,11.4
+"134","Suicide","None selected","65+","White",4827,35187489,13.7
+"135","Suicide","None selected","65+","Black",117,3830699,3.1
+"136","Suicide","None selected","65+","Hispanic",109,3316947,3.3
+"137","Suicide","None selected","65+","Asian/Pacific Islander",24,1742301,1.4
+"138","Suicide","None selected","65+","Other",15,589598,2.5
+"139","Suicide","None selected","5","None selected",2,0,Inf
+"140","Suicide","None selected","5","White",2,0,Inf
+"141","Suicide","None selected","5","Black",0,0,NA
+"142","Suicide","None selected","5","Hispanic",0,0,NA
+"143","Suicide","None selected","5","Asian/Pacific Islander",0,0,NA
+"144","Suicide","None selected","5","Other",0,0,NA
+"145","Suicide","Female","None selected","None selected",2896,160668110,1.8
+"146","Suicide","Female","None selected","White",2606,100162288,2.6
+"147","Suicide","Female","None selected","Black",121,20362385,0.6
+"148","Suicide","Female","None selected","Hispanic",116,26670924,0.4
+"149","Suicide","Female","None selected","Asian/Pacific Islander",33,8589119,0.4
+"150","Suicide","Female","None selected","Other",21,4883395,0.4
+"151","Suicide","Female","Under 15","None selected",25,29836679,0.1
+"152","Suicide","Female","Under 15","White",19,15355910,0.1
+"153","Suicide","Female","Under 15","Black",1,4095428,0
+"154","Suicide","Female","Under 15","Hispanic",4,7330024,0.1
+"155","Suicide","Female","Under 15","Asian/Pacific Islander",1,1393440,0.1
+"156","Suicide","Female","Under 15","Other",0,1661877,0
+"157","Suicide","Female","15 - 34","None selected",662,42593280,1.6
+"158","Suicide","Female","15 - 34","White",539,23942099,2.3
+"159","Suicide","Female","15 - 34","Black",44,6023846,0.7
+"160","Suicide","Female","15 - 34","Hispanic",55,8580577,0.6
+"161","Suicide","Female","15 - 34","Asian/Pacific Islander",14,2535358,0.6
+"162","Suicide","Female","15 - 34","Other",10,1511400,0.7
+"163","Suicide","Female","35 - 64","None selected",1773,63125058,2.8
+"164","Suicide","Female","35 - 64","White",1630,41284839,3.9
+"165","Suicide","Female","35 - 64","Black",65,7932606,0.8
+"166","Suicide","Female","35 - 64","Hispanic",52,8863203,0.6
+"167","Suicide","Female","35 - 64","Asian/Pacific Islander",16,3668172,0.4
+"168","Suicide","Female","35 - 64","Other",10,1376239,0.7
+"169","Suicide","Female","65+","None selected",436,25113094,1.7
+"170","Suicide","Female","65+","White",417,19579439,2.1
+"171","Suicide","Female","65+","Black",11,2310506,0.5
+"172","Suicide","Female","65+","Hispanic",5,1897119,0.3
+"173","Suicide","Female","65+","Asian/Pacific Islander",2,992150,0.2
+"174","Suicide","Female","65+","Other",1,333879,0.3
+"175","Suicide","Female","5","None selected",1,0,Inf
+"176","Suicide","Female","5","White",1,0,Inf
+"177","Suicide","Female","5","Black",0,0,NA
+"178","Suicide","Female","5","Hispanic",0,0,NA
+"179","Suicide","Female","5","Asian/Pacific Islander",0,0,NA
+"180","Suicide","Female","5","Other",0,0,NA
+"181","Suicide","Male","None selected","None selected",18162,155631868,11.7
+"182","Suicide","Male","None selected","White",15852,97207346,16.3
+"183","Suicide","Male","None selected","Black",989,18533996,5.3
+"184","Suicide","Male","None selected","Hispanic",941,27378155,3.4
+"185","Suicide","Male","None selected","Asian/Pacific Islander",215,7726442,2.8
+"186","Suicide","Male","None selected","Other",164,4785929,3.4
+"187","Suicide","Male","Under 15","None selected",114,31249189,0.4
+"188","Suicide","Male","Under 15","White",98,16182922,0.6
+"189","Suicide","Male","Under 15","Black",6,4228176,0.1
+"190","Suicide","Male","Under 15","Hispanic",9,7664425,0.1
+"191","Suicide","Male","Under 15","Asian/Pacific Islander",2,1431715,0.1
+"192","Suicide","Male","Under 15","Other",0,1741952,0
+"193","Suicide","Male","15 - 34","None selected",4399,44017869,10
+"194","Suicide","Male","15 - 34","White",3339,24831032,13.4
+"195","Suicide","Male","15 - 34","Black",466,5869943,7.9
+"196","Suicide","Male","15 - 34","Hispanic",424,9379683,4.5
+"197","Suicide","Male","15 - 34","Asian/Pacific Islander",92,2415040,3.8
+"198","Suicide","Male","15 - 34","Other",78,1522171,5.1
+"199","Suicide","Male","35 - 64","None selected",8991,60810870,14.8
+"200","Suicide","Male","35 - 64","White",8005,40585343,19.7
+"201","Suicide","Male","35 - 64","Black",411,6915685,5.9
+"202","Suicide","Male","35 - 64","Hispanic",405,8914219,4.5
+"203","Suicide","Male","35 - 64","Asian/Pacific Islander",99,3129535,3.2
+"204","Suicide","Male","35 - 64","Other",71,1266087,5.6
+"205","Suicide","Male","65+","None selected",4656,19553940,23.8
+"206","Suicide","Male","65+","White",4409,15608050,28.2
+"207","Suicide","Male","65+","Black",106,1520192,7
+"208","Suicide","Male","65+","Hispanic",104,1419828,7.3
+"209","Suicide","Male","65+","Asian/Pacific Islander",22,750151,2.9
+"210","Suicide","Male","65+","Other",14,255719,5.5
+"211","Suicide","Male","5","None selected",2,0,Inf
+"212","Suicide","Male","5","White",1,0,Inf
+"213","Suicide","Male","5","Black",0,0,NA
+"214","Suicide","Male","5","Hispanic",0,0,NA
+"215","Suicide","Male","5","Asian/Pacific Islander",0,0,NA
+"216","Suicide","Male","5","Other",0,0,NA
+"217","Homicide","None selected","None selected","None selected",11726,316299978,3.7
+"218","Homicide","None selected","None selected","White",3049,197369634,1.5
+"219","Homicide","None selected","None selected","Black",6503,38896382,16.7
+"220","Homicide","None selected","None selected","Hispanic",1878,54049078,3.5
+"221","Homicide","None selected","None selected","Asian/Pacific Islander",186,16315561,1.1
+"222","Homicide","None selected","None selected","Other",109,9669323,1.1
+"223","Homicide","None selected","Under 15","None selected",221,61085868,0.4
+"224","Homicide","None selected","Under 15","White",88,31538832,0.3
+"225","Homicide","None selected","Under 15","Black",82,8323603,1
+"226","Homicide","None selected","Under 15","Hispanic",45,14994449,0.3
+"227","Homicide","None selected","Under 15","Asian/Pacific Islander",4,2825155,0.1
+"228","Homicide","None selected","Under 15","Other",3,3403829,0.1
+"229","Homicide","None selected","15 - 34","None selected",7335,86611149,8.5
+"230","Homicide","None selected","15 - 34","White",1180,48773131,2.4
+"231","Homicide","None selected","15 - 34","Black",4701,11893789,39.5
+"232","Homicide","None selected","15 - 34","Hispanic",1296,17960261,7.2
+"233","Homicide","None selected","15 - 34","Asian/Pacific Islander",92,4950398,1.9
+"234","Homicide","None selected","15 - 34","Other",66,3033571,2.2
+"235","Homicide","None selected","35 - 64","None selected",3792,123935928,3.1
+"236","Homicide","None selected","35 - 64","White",1505,81870182,1.8
+"237","Homicide","None selected","35 - 64","Black",1652,14848291,11.1
+"238","Homicide","None selected","35 - 64","Hispanic",514,17777422,2.9
+"239","Homicide","None selected","35 - 64","Asian/Pacific Islander",84,6797707,1.2
+"240","Homicide","None selected","35 - 64","Other",37,2642326,1.4
+"241","Homicide","None selected","65+","None selected",375,44667034,0.8
+"242","Homicide","None selected","65+","White",274,35187489,0.8
+"243","Homicide","None selected","65+","Black",69,3830699,1.8
+"244","Homicide","None selected","65+","Hispanic",22,3316947,0.7
+"245","Homicide","None selected","65+","Asian/Pacific Islander",7,1742301,0.4
+"246","Homicide","None selected","65+","Other",2,589598,0.3
+"247","Homicide","None selected","5","None selected",3,0,Inf
+"248","Homicide","None selected","5","White",2,0,Inf
+"249","Homicide","None selected","5","Black",0,0,NA
+"250","Homicide","None selected","5","Hispanic",0,0,NA
+"251","Homicide","None selected","5","Asian/Pacific Islander",0,0,NA
+"252","Homicide","None selected","5","Other",0,0,NA
+"253","Homicide","Female","None selected","None selected",1791,160668110,1.1
+"254","Homicide","Female","None selected","White",860,100162288,0.9
+"255","Homicide","Female","None selected","Black",633,20362385,3.1
+"256","Homicide","Female","None selected","Hispanic",232,26670924,0.9
+"257","Homicide","Female","None selected","Asian/Pacific Islander",47,8589119,0.5
+"258","Homicide","Female","None selected","Other",20,4883395,0.4
+"259","Homicide","Female","Under 15","None selected",85,29836679,0.3
+"260","Homicide","Female","Under 15","White",38,15355910,0.2
+"261","Homicide","Female","Under 15","Black",27,4095428,0.7
+"262","Homicide","Female","Under 15","Hispanic",19,7330024,0.3
+"263","Homicide","Female","Under 15","Asian/Pacific Islander",1,1393440,0.1
+"264","Homicide","Female","Under 15","Other",1,1661877,0.1
+"265","Homicide","Female","15 - 34","None selected",815,42593280,1.9
+"266","Homicide","Female","15 - 34","White",267,23942099,1.1
+"267","Homicide","Female","15 - 34","Black",389,6023846,6.5
+"268","Homicide","Female","15 - 34","Hispanic",131,8580577,1.5
+"269","Homicide","Female","15 - 34","Asian/Pacific Islander",16,2535358,0.6
+"270","Homicide","Female","15 - 34","Other",13,1511400,0.9
+"271","Homicide","Female","35 - 64","None selected",733,63125058,1.2
+"272","Homicide","Female","35 - 64","White",426,41284839,1
+"273","Homicide","Female","35 - 64","Black",199,7932606,2.5
+"274","Homicide","Female","35 - 64","Hispanic",76,8863203,0.9
+"275","Homicide","Female","35 - 64","Asian/Pacific Islander",26,3668172,0.7
+"276","Homicide","Female","35 - 64","Other",6,1376239,0.4
+"277","Homicide","Female","65+","None selected",158,25113094,0.6
+"278","Homicide","Female","65+","White",129,19579439,0.7
+"279","Homicide","Female","65+","Black",18,2310506,0.8
+"280","Homicide","Female","65+","Hispanic",6,1897119,0.3
+"281","Homicide","Female","65+","Asian/Pacific Islander",4,992150,0.4
+"282","Homicide","Female","65+","Other",1,333879,0.3
+"283","Homicide","Female","5","None selected",0,0,NA
+"284","Homicide","Female","5","White",0,0,NA
+"285","Homicide","Female","5","Black",0,0,NA
+"286","Homicide","Female","5","Hispanic",0,0,NA
+"287","Homicide","Female","5","Asian/Pacific Islander",0,0,NA
+"288","Homicide","Female","5","Other",0,0,NA
+"289","Homicide","Male","None selected","None selected",9935,155631868,6.4
+"290","Homicide","Male","None selected","White",2189,97207346,2.3
+"291","Homicide","Male","None selected","Black",5871,18533996,31.7
+"292","Homicide","Male","None selected","Hispanic",1646,27378155,6
+"293","Homicide","Male","None selected","Asian/Pacific Islander",140,7726442,1.8
+"294","Homicide","Male","None selected","Other",89,4785929,1.9
+"295","Homicide","Male","Under 15","None selected",136,31249189,0.4
+"296","Homicide","Male","Under 15","White",50,16182922,0.3
+"297","Homicide","Male","Under 15","Black",55,4228176,1.3
+"298","Homicide","Male","Under 15","Hispanic",26,7664425,0.3
+"299","Homicide","Male","Under 15","Asian/Pacific Islander",3,1431715,0.2
+"300","Homicide","Male","Under 15","Other",2,1741952,0.1
+"301","Homicide","Male","15 - 34","None selected",6520,44017869,14.8
+"302","Homicide","Male","15 - 34","White",913,24831032,3.7
+"303","Homicide","Male","15 - 34","Black",4312,5869943,73.5
+"304","Homicide","Male","15 - 34","Hispanic",1166,9379683,12.4
+"305","Homicide","Male","15 - 34","Asian/Pacific Islander",76,2415040,3.1
+"306","Homicide","Male","15 - 34","Other",54,1522171,3.5
+"307","Homicide","Male","35 - 64","None selected",3059,60810870,5
+"308","Homicide","Male","35 - 64","White",1079,40585343,2.7
+"309","Homicide","Male","35 - 64","Black",1453,6915685,21
+"310","Homicide","Male","35 - 64","Hispanic",438,8914219,4.9
+"311","Homicide","Male","35 - 64","Asian/Pacific Islander",57,3129535,1.8
+"312","Homicide","Male","35 - 64","Other",31,1266087,2.4
+"313","Homicide","Male","65+","None selected",217,19553940,1.1
+"314","Homicide","Male","65+","White",145,15608050,0.9
+"315","Homicide","Male","65+","Black",51,1520192,3.4
+"316","Homicide","Male","65+","Hispanic",16,1419828,1.1
+"317","Homicide","Male","65+","Asian/Pacific Islander",4,750151,0.5
+"318","Homicide","Male","65+","Other",1,255719,0.4
+"319","Homicide","Male","5","None selected",3,0,Inf
+"320","Homicide","Male","5","White",2,0,Inf
+"321","Homicide","Male","5","Black",0,0,NA
+"322","Homicide","Male","5","Hispanic",0,0,NA
+"323","Homicide","Male","5","Asian/Pacific Islander",0,0,NA
+"324","Homicide","Male","5","Other",0,0,NA
+"325","Accident","None selected","None selected","None selected",546,316299978,0.2
+"326","Accident","None selected","None selected","White",377,197369634,0.2
+"327","Accident","None selected","None selected","Black",109,38896382,0.3
+"328","Accident","None selected","None selected","Hispanic",48,54049078,0.1
+"329","Accident","None selected","None selected","Asian/Pacific Islander",4,16315561,0
+"330","Accident","None selected","None selected","Other",7,9669323,0.1
+"331","Accident","None selected","Under 15","None selected",59,61085868,0.1
+"332","Accident","None selected","Under 15","White",33,31538832,0.1
+"333","Accident","None selected","Under 15","Black",19,8323603,0.2
+"334","Accident","None selected","Under 15","Hispanic",6,14994449,0
+"335","Accident","None selected","Under 15","Asian/Pacific Islander",0,2825155,0
+"336","Accident","None selected","Under 15","Other",1,3403829,0
+"337","Accident","None selected","15 - 34","None selected",210,86611149,0.2
+"338","Accident","None selected","15 - 34","White",116,48773131,0.2
+"339","Accident","None selected","15 - 34","Black",60,11893789,0.5
+"340","Accident","None selected","15 - 34","Hispanic",29,17960261,0.2
+"341","Accident","None selected","15 - 34","Asian/Pacific Islander",2,4950398,0
+"342","Accident","None selected","15 - 34","Other",3,3033571,0.1
+"343","Accident","None selected","35 - 64","None selected",206,123935928,0.2
+"344","Accident","None selected","35 - 64","White",165,81870182,0.2
+"345","Accident","None selected","35 - 64","Black",24,14848291,0.2
+"346","Accident","None selected","35 - 64","Hispanic",12,17777422,0.1
+"347","Accident","None selected","35 - 64","Asian/Pacific Islander",2,6797707,0
+"348","Accident","None selected","35 - 64","Other",3,2642326,0.1
+"349","Accident","None selected","65+","None selected",71,44667034,0.2
+"350","Accident","None selected","65+","White",64,35187489,0.2
+"351","Accident","None selected","65+","Black",6,3830699,0.2
+"352","Accident","None selected","65+","Hispanic",2,3316947,0.1
+"353","Accident","None selected","65+","Asian/Pacific Islander",0,1742301,0
+"354","Accident","None selected","65+","Other",0,589598,0
+"355","Accident","None selected","5","None selected",0,0,NA
+"356","Accident","None selected","5","White",0,0,NA
+"357","Accident","None selected","5","Black",0,0,NA
+"358","Accident","None selected","5","Hispanic",0,0,NA
+"359","Accident","None selected","5","Asian/Pacific Islander",0,0,NA
+"360","Accident","None selected","5","Other",0,0,NA
+"361","Accident","Female","None selected","None selected",73,160668110,0
+"362","Accident","Female","None selected","White",55,100162288,0.1
+"363","Accident","Female","None selected","Black",11,20362385,0.1
+"364","Accident","Female","None selected","Hispanic",5,26670924,0
+"365","Accident","Female","None selected","Asian/Pacific Islander",1,8589119,0
+"366","Accident","Female","None selected","Other",1,4883395,0
+"367","Accident","Female","Under 15","None selected",12,29836679,0
+"368","Accident","Female","Under 15","White",7,15355910,0
+"369","Accident","Female","Under 15","Black",3,4095428,0.1
+"370","Accident","Female","Under 15","Hispanic",2,7330024,0
+"371","Accident","Female","Under 15","Asian/Pacific Islander",0,1393440,0
+"372","Accident","Female","Under 15","Other",0,1661877,0
+"373","Accident","Female","15 - 34","None selected",21,42593280,0
+"374","Accident","Female","15 - 34","White",14,23942099,0.1
+"375","Accident","Female","15 - 34","Black",5,6023846,0.1
+"376","Accident","Female","15 - 34","Hispanic",2,8580577,0
+"377","Accident","Female","15 - 34","Asian/Pacific Islander",0,2535358,0
+"378","Accident","Female","15 - 34","Other",0,1511400,0
+"379","Accident","Female","35 - 64","None selected",33,63125058,0.1
+"380","Accident","Female","35 - 64","White",28,41284839,0.1
+"381","Accident","Female","35 - 64","Black",3,7932606,0
+"382","Accident","Female","35 - 64","Hispanic",1,8863203,0
+"383","Accident","Female","35 - 64","Asian/Pacific Islander",1,3668172,0
+"384","Accident","Female","35 - 64","Other",0,1376239,0
+"385","Accident","Female","65+","None selected",7,25113094,0
+"386","Accident","Female","65+","White",6,19579439,0
+"387","Accident","Female","65+","Black",0,2310506,0
+"388","Accident","Female","65+","Hispanic",0,1897119,0
+"389","Accident","Female","65+","Asian/Pacific Islander",0,992150,0
+"390","Accident","Female","65+","Other",0,333879,0
+"391","Accident","Female","5","None selected",0,0,NA
+"392","Accident","Female","5","White",0,0,NA
+"393","Accident","Female","5","Black",0,0,NA
+"394","Accident","Female","5","Hispanic",0,0,NA
+"395","Accident","Female","5","Asian/Pacific Islander",0,0,NA
+"396","Accident","Female","5","Other",0,0,NA
+"397","Accident","Male","None selected","None selected",474,155631868,0.3
+"398","Accident","Male","None selected","White",323,97207346,0.3
+"399","Accident","Male","None selected","Black",98,18533996,0.5
+"400","Accident","Male","None selected","Hispanic",43,27378155,0.2
+"401","Accident","Male","None selected","Asian/Pacific Islander",3,7726442,0
+"402","Accident","Male","None selected","Other",7,4785929,0.1
+"403","Accident","Male","Under 15","None selected",47,31249189,0.2
+"404","Accident","Male","Under 15","White",26,16182922,0.2
+"405","Accident","Male","Under 15","Black",16,4228176,0.4
+"406","Accident","Male","Under 15","Hispanic",4,7664425,0.1
+"407","Accident","Male","Under 15","Asian/Pacific Islander",0,1431715,0
+"408","Accident","Male","Under 15","Other",1,1741952,0.1
+"409","Accident","Male","15 - 34","None selected",189,44017869,0.4
+"410","Accident","Male","15 - 34","White",102,24831032,0.4
+"411","Accident","Male","15 - 34","Black",56,5869943,1
+"412","Accident","Male","15 - 34","Hispanic",27,9379683,0.3
+"413","Accident","Male","15 - 34","Asian/Pacific Islander",1,2415040,0
+"414","Accident","Male","15 - 34","Other",3,1522171,0.2
+"415","Accident","Male","35 - 64","None selected",173,60810870,0.3
+"416","Accident","Male","35 - 64","White",137,40585343,0.3
+"417","Accident","Male","35 - 64","Black",21,6915685,0.3
+"418","Accident","Male","35 - 64","Hispanic",10,8914219,0.1
+"419","Accident","Male","35 - 64","Asian/Pacific Islander",1,3129535,0
+"420","Accident","Male","35 - 64","Other",3,1266087,0.2
+"421","Accident","Male","65+","None selected",64,19553940,0.3
+"422","Accident","Male","65+","White",57,15608050,0.4
+"423","Accident","Male","65+","Black",5,1520192,0.3
+"424","Accident","Male","65+","Hispanic",2,1419828,0.1
+"425","Accident","Male","65+","Asian/Pacific Islander",0,750151,0
+"426","Accident","Male","65+","Other",0,255719,0
+"427","Accident","Male","5","None selected",0,0,NA
+"428","Accident","Male","5","White",0,0,NA
+"429","Accident","Male","5","Black",0,0,NA
+"430","Accident","Male","5","Hispanic",0,0,NA
+"431","Accident","Male","5","Asian/Pacific Islander",0,0,NA
+"432","Accident","Male","5","Other",0,0,NA
+"433","Unknown","None selected","None selected","None selected",269,316299978,0.1
+"434","Unknown","None selected","None selected","White",195,197369634,0.1
+"435","Unknown","None selected","None selected","Black",42,38896382,0.1
+"436","Unknown","None selected","None selected","Hispanic",24,54049078,0
+"437","Unknown","None selected","None selected","Asian/Pacific Islander",3,16315561,0
+"438","Unknown","None selected","None selected","Other",5,9669323,0.1
+"439","Unknown","None selected","Under 15","None selected",8,61085868,0
+"440","Unknown","None selected","Under 15","White",5,31538832,0
+"441","Unknown","None selected","Under 15","Black",2,8323603,0
+"442","Unknown","None selected","Under 15","Hispanic",1,14994449,0
+"443","Unknown","None selected","Under 15","Asian/Pacific Islander",0,2825155,0
+"444","Unknown","None selected","Under 15","Other",0,3403829,0
+"445","Unknown","None selected","15 - 34","None selected",116,86611149,0.1
+"446","Unknown","None selected","15 - 34","White",70,48773131,0.1
+"447","Unknown","None selected","15 - 34","Black",25,11893789,0.2
+"448","Unknown","None selected","15 - 34","Hispanic",17,17960261,0.1
+"449","Unknown","None selected","15 - 34","Asian/Pacific Islander",1,4950398,0
+"450","Unknown","None selected","15 - 34","Other",3,3033571,0.1
+"451","Unknown","None selected","35 - 64","None selected",113,123935928,0.1
+"452","Unknown","None selected","35 - 64","White",91,81870182,0.1
+"453","Unknown","None selected","35 - 64","Black",12,14848291,0.1
+"454","Unknown","None selected","35 - 64","Hispanic",6,17777422,0
+"455","Unknown","None selected","35 - 64","Asian/Pacific Islander",2,6797707,0
+"456","Unknown","None selected","35 - 64","Other",2,2642326,0.1
+"457","Unknown","None selected","65+","None selected",31,44667034,0.1
+"458","Unknown","None selected","65+","White",28,35187489,0.1
+"459","Unknown","None selected","65+","Black",3,3830699,0.1
+"460","Unknown","None selected","65+","Hispanic",0,3316947,0
+"461","Unknown","None selected","65+","Asian/Pacific Islander",0,1742301,0
+"462","Unknown","None selected","65+","Other",0,589598,0
+"463","Unknown","None selected","5","None selected",0,0,NA
+"464","Unknown","None selected","5","White",0,0,NA
+"465","Unknown","None selected","5","Black",0,0,NA
+"466","Unknown","None selected","5","Hispanic",0,0,NA
+"467","Unknown","None selected","5","Asian/Pacific Islander",0,0,NA
+"468","Unknown","None selected","5","Other",0,0,NA
+"469","Unknown","Female","None selected","None selected",56,160668110,0
+"470","Unknown","Female","None selected","White",42,100162288,0
+"471","Unknown","Female","None selected","Black",7,20362385,0
+"472","Unknown","Female","None selected","Hispanic",5,26670924,0
+"473","Unknown","Female","None selected","Asian/Pacific Islander",1,8589119,0
+"474","Unknown","Female","None selected","Other",1,4883395,0
+"475","Unknown","Female","Under 15","None selected",2,29836679,0
+"476","Unknown","Female","Under 15","White",1,15355910,0
+"477","Unknown","Female","Under 15","Black",1,4095428,0
+"478","Unknown","Female","Under 15","Hispanic",0,7330024,0
+"479","Unknown","Female","Under 15","Asian/Pacific Islander",0,1393440,0
+"480","Unknown","Female","Under 15","Other",0,1661877,0
+"481","Unknown","Female","15 - 34","None selected",23,42593280,0.1
+"482","Unknown","Female","15 - 34","White",15,23942099,0.1
+"483","Unknown","Female","15 - 34","Black",3,6023846,0
+"484","Unknown","Female","15 - 34","Hispanic",3,8580577,0
+"485","Unknown","Female","15 - 34","Asian/Pacific Islander",0,2535358,0
+"486","Unknown","Female","15 - 34","Other",1,1511400,0.1
+"487","Unknown","Female","35 - 64","None selected",26,63125058,0
+"488","Unknown","Female","35 - 64","White",21,41284839,0.1
+"489","Unknown","Female","35 - 64","Black",3,7932606,0
+"490","Unknown","Female","35 - 64","Hispanic",2,8863203,0
+"491","Unknown","Female","35 - 64","Asian/Pacific Islander",0,3668172,0
+"492","Unknown","Female","35 - 64","Other",0,1376239,0
+"493","Unknown","Female","65+","None selected",6,25113094,0
+"494","Unknown","Female","65+","White",5,19579439,0
+"495","Unknown","Female","65+","Black",0,2310506,0
+"496","Unknown","Female","65+","Hispanic",0,1897119,0
+"497","Unknown","Female","65+","Asian/Pacific Islander",0,992150,0
+"498","Unknown","Female","65+","Other",0,333879,0
+"499","Unknown","Female","5","None selected",0,0,NA
+"500","Unknown","Female","5","White",0,0,NA
+"501","Unknown","Female","5","Black",0,0,NA
+"502","Unknown","Female","5","Hispanic",0,0,NA
+"503","Unknown","Female","5","Asian/Pacific Islander",0,0,NA
+"504","Unknown","Female","5","Other",0,0,NA
+"505","Unknown","Male","None selected","None selected",213,155631868,0.1
+"506","Unknown","Male","None selected","White",153,97207346,0.2
+"507","Unknown","Male","None selected","Black",35,18533996,0.2
+"508","Unknown","Male","None selected","Hispanic",19,27378155,0.1
+"509","Unknown","Male","None selected","Asian/Pacific Islander",3,7726442,0
+"510","Unknown","Male","None selected","Other",4,4785929,0.1
+"511","Unknown","Male","Under 15","None selected",6,31249189,0
+"512","Unknown","Male","Under 15","White",5,16182922,0
+"513","Unknown","Male","Under 15","Black",1,4228176,0
+"514","Unknown","Male","Under 15","Hispanic",0,7664425,0
+"515","Unknown","Male","Under 15","Asian/Pacific Islander",0,1431715,0
+"516","Unknown","Male","Under 15","Other",0,1741952,0
+"517","Unknown","Male","15 - 34","None selected",94,44017869,0.2
+"518","Unknown","Male","15 - 34","White",55,24831032,0.2
+"519","Unknown","Male","15 - 34","Black",22,5869943,0.4
+"520","Unknown","Male","15 - 34","Hispanic",14,9379683,0.1
+"521","Unknown","Male","15 - 34","Asian/Pacific Islander",1,2415040,0
+"522","Unknown","Male","15 - 34","Other",2,1522171,0.1
+"523","Unknown","Male","35 - 64","None selected",87,60810870,0.1
+"524","Unknown","Male","35 - 64","White",70,40585343,0.2
+"525","Unknown","Male","35 - 64","Black",9,6915685,0.1
+"526","Unknown","Male","35 - 64","Hispanic",4,8914219,0
+"527","Unknown","Male","35 - 64","Asian/Pacific Islander",2,3129535,0.1
+"528","Unknown","Male","35 - 64","Other",1,1266087,0.1
+"529","Unknown","Male","65+","None selected",26,19553940,0.1
+"530","Unknown","Male","65+","White",23,15608050,0.1
+"531","Unknown","Male","65+","Black",2,1520192,0.1
+"532","Unknown","Male","65+","Hispanic",0,1419828,0
+"533","Unknown","Male","65+","Asian/Pacific Islander",0,750151,0
+"534","Unknown","Male","65+","Other",0,255719,0
+"535","Unknown","Male","5","None selected",0,0,NA
+"536","Unknown","Male","5","White",0,0,NA
+"537","Unknown","Male","5","Black",0,0,NA
+"538","Unknown","Male","5","Hispanic",0,0,NA
+"539","Unknown","Male","5","Asian/Pacific Islander",0,0,NA
+"540","Unknown","Male","5","Other",0,0,NA
