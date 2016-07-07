@@ -4,7 +4,7 @@
 # published data, use years 2012-2014.
 
 # Questions/comments/corrections to ben.casselman@fivethirtyeight.com
-# Interactive designed and built by Reuben Fischer-Baum.
+# Interactive designed and built by Reuben Fischer-Baum and Matthew Conlen.
 
 # All deaths data is from the CDC's Multiple Cause of Death datafile.
 # Data: http://www.cdc.gov/nchs/data_access/VitalStatsOnline.htm#Mortality_Multiple
@@ -13,8 +13,6 @@
 
 library(readr)
 library(dplyr)
-library(tidyr)
-library(magrittr)
 
 load("all_guns.RData") # Assumes you have already run CDC_parser code.
 
